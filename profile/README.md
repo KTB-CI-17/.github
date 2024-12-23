@@ -69,6 +69,30 @@
 
 ---
 
+## 풀스택 개발 일정
+## Development Timeline 📅
+
+| Period | Developer | Frontend | Backend |
+|--------|-----------|----------|----------|
+| **2024.10.24 ~ 10.28** | hjlim4u | 모바일 템플릿 구성 | 프로젝트 초기 세팅 |
+| | ddangme | • 하단 탭 네비게이션 구현<br>• 초기 프로젝트 설정 | |
+| **2024.10.29 ~ 10.30** | ddangme | • 스플래시/아이콘 디자인<br>• 커뮤니티/족형분석/홀드탐지 UI<br>• 캘린더/설정/내 정보 페이지 | • 게시글 등록 로직 설계<br>• API 연동 구조 설계 |
+| **2024.11.01 ~ 11.08** | ddangme | • 홀드 탐색 UI/줌 기능<br>• 주소 검색 (카카오맵)<br>• 날짜/난이도 컴포넌트<br>• 로그인/로그아웃 UI | • 홀드 분석 AI 서버 연동<br>• 게시글 CRUD API<br>• Security 설정<br>• 댓글 시스템 API 설계 |
+| | hjlim4u | | 로그인 기능 구현 |
+| **2024.11.11 ~ 11.21** | ddangme | • 게시글 작성 컴포넌트<br>• 페이징 처리<br>• 에러 화면<br>• API 연동 | • 게시글 CRUD 완성<br>• 수정/삭제 API<br>• 댓글 CRUD API<br>• 글자수 체크 로직 |
+| | hjlim4u | | 활동기록 CRUD |
+| **2024.11.25 ~ 11.30** | ddangme | • 게시글 상세 페이지<br>• 댓글/대댓글 UI<br>• 이미지 첨부<br>• 로그인 페이지 | • JWT 인증 구현<br>• Refresh Token 로직<br>• Security 설정 고도화 |
+| **2024.12.01 ~ 12.14** | ddangme | • 자유게시글 작성<br>• 커뮤니티 무한 스크롤<br>• 알림 시스템 | • 게시글 통합 API<br>• 조회수 기능<br>• 좋아요 시스템 |
+| | hjlim4u | | • 신발 추천 기능<br>• 타임라인 기능<br>• 팔로우/팔로잉 |
+| **2024.12.15 ~ 12.24** | ddangme | • 프로필 수정<br>• 타임라인 API 연동<br>• 에러 페이지<br>• 타입 정의 개선<br>• 팔로잉 기능 연동 | • 타임라인 댓글 기능<br>• S3 연동<br>• Presigned URL 처리<br>• 환경변수 설정 |
+| | hjlim4u | | • 팔로우 시스템<br>|
+
+### Major Milestones 🏁
+1. 11월 중순: Expo → Vite 마이그레이션 시작
+2. 11월 말: 풀스택 개발 본격화
+3. 12월 중순: AWS S3 도입 및 이미지 처리 고도화
+
+
 <div align="center">
     <sub>Built with ❤️ by Cruming Team</sub>
 </div>
