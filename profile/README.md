@@ -112,6 +112,14 @@
 2. 11월 말: 풀스택 개발 본격화
 3. 12월 중순: AWS S3 도입 및 이미지 처리 고도화
 
+## 클라우드 개발 일정 📅
+![일정](https://github.com/user-attachments/assets/1013c88c-2fe9-4ba2-93f0-f293491457c8)
+
+
+
+## 클라우드 아키텍처 🛠
+![aws_network_architecture](https://github.com/user-attachments/assets/8713723a-3561-4f2b-b5b6-b72e4bcb0ddf)
+![kubernetes_architecture](https://github.com/user-attachments/assets/3e6eaaa7-6682-4734-abae-94516ced48c9)
 
 <div align="center">
     <sub>Built with ❤️ by Cruming Team</sub>
